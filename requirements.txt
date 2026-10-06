@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+s3fs
+xarray
+netCDF4
+h5netcdf
+cartopy
+imageio
+numpy
+matplotlib
+pydantic
+Pillow
